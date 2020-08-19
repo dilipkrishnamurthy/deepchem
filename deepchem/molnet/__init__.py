@@ -45,3 +45,4 @@ from deepchem.molnet.dnasim import simulate_single_motif_detection
 from deepchem.molnet.run_benchmark import run_benchmark
 #from deepchem.molnet.run_benchmark_low_data import run_benchmark_low_data
 from deepchem.molnet import run_benchmark_models
+rom deepchem.molnet.load_function.ktDataset import load_ktdataset
